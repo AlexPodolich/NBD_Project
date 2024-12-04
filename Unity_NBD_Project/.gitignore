@@ -71,3 +71,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Unity_NBD_Project/Library/Artifacts/73
+/Unity_NBD_Project/Library/Artifacts
+/Unity_NBD_Project/Library/PackageCache/com.unity.2d.spriteshape@9.0.4/Documentation~/images
+/Unity_NBD_Project/Library/PackageCache
+*.obj
+/Unity_NBD_Project/Temp/Burst
+/Unity_NBD_Project/Library/ShaderCache/shader
+/Unity_NBD_Project/Library/ShaderCache/builtin
