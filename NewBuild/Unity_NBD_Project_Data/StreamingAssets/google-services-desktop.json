@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1044379153070",
+    "firebase_url": "https://nbdproject-1a53b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nbdproject-1a53b",
+    "storage_bucket": "nbdproject-1a53b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044379153070:android:7860c18ad4c1937ea3333f",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.UnityNBDProject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjy4s1LdIxuugWrJ3P0BdosBX1xFpzHmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,15 +1,5 @@
-# This .gitignore file should be placed at the root of your Unity project directory
-#
-# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
-#
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
 
+<<<<<<<< HEAD:Unity_NBD_Project/.gitignore
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
@@ -79,3 +69,16 @@ crashlytics-build.properties
 /Unity_NBD_Project/Temp/Burst
 /Unity_NBD_Project/Library/ShaderCache/shader
 /Unity_NBD_Project/Library/ShaderCache/builtin
+========
+/Unity_NBD_Project/Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials
+/Unity_NBD_Project/Assets/TextMesh Pro/Examples & Extras/Scenes
+/Unity_NBD_Project/Assets/TextMesh Pro/Examples & Extras/Scripts
+/Unity_NBD_Project/Assets/TextMesh Pro/Examples & Extras/Sprites
+/Unity_NBD_Project/Assets/TextMesh Pro/Examples & Extras/Textures
+/Unity_NBD_Project/Assets/TextMesh Pro/Shaders
+/Unity_NBD_Project/Assets/TextMesh Pro/Sprites
+/Unity_NBD_Project/Assets/Plugins/iOS
+/Unity_NBD_Project/Assets/Plugins/tvOS
+/Unity_NBD_Project/Assets/Firebase/Plugins
+/env
+>>>>>>>> dev:.gitignore
