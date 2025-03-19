@@ -162,4 +162,4 @@ https://www.kaggle.com/datasets/andrewmvd/steam-reviews/code
 
 This project is a continuation of:
 
-[https://github.com/HerrBearlin/PAD_SteamReview?tab=readme-ov-file ](https://github.com/AlexPodolich/PAD_SteamReview)
+https://github.com/AlexPodolich/PAD_SteamReview
